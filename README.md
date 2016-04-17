@@ -11,4 +11,4 @@ Trains on
 Future additions
 - More efficient image training algorithim
 - Train on biographies with a dictionary
-- Web view from [Tinder Online](tinder.online)
+- Web view from [Tinder Online](http://tindr.online)
