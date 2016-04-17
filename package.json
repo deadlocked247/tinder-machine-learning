@@ -1,0 +1,21 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "cli-interact": "^0.1.9",
+    "console-png": "^1.1.0",
+    "jimp": "^0.2.21",
+    "jpeg-extract": "^1.0.4",
+    "request": "^2.72.0",
+    "tinderauth": ""
+  }
+}
